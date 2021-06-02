@@ -1,6 +1,24 @@
-<h1>Electronics Engineer</h1> 
+<h1>Electronics Engineer</h1>
 
-<p>Looking for a company that allow me to apply my knowledge acquired along my own effort, as well as my skills to planify, organize and manage the operations of each organization.</p>
+<ul>
+<li><p>Proactive Frontend developer with a passion for learning new things. Strong team player, highly proactive and very process-oriented engineer. Respectful and with great written and communication skills.</p></li>
+  
+</ul>
+<h2>Profile</h2>
+<ul>
+<li>Programming in C with microcontrollers for 2 years</li>
+<li>Knowledge of HTML, CSS, JS and php</li>
+<li>Basic knowledge in python</li>
+</ul>
+
+<h2>Education</h2>
+<ul>
+<li>Universidad Autónoma Metropolitana Unidad Azcapotzalco Electronic Engineering</li>
+</ul>
+
+
+
+
 <!--
 **josafath597/josafath597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
