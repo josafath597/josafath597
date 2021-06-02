@@ -16,6 +16,11 @@
 <li>Universidad Autónoma Metropolitana Unidad Azcapotzalco Electronic Engineering</li>
 </ul>
 
+<h2>Certifications</h2>
+<ul>
+<li></li>
+</ul>
+
 
 
 
