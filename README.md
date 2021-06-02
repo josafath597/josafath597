@@ -1,5 +1,6 @@
-### Hi there 👋
-<h1>Hello</h1> 
+<h1>Electronics Engineer</h1> 
+
+<p>Looking for a company that allow me to apply my knowledge acquired along my own effort, as well as my skills to planify, organize and manage the operations of each organization.</p>
 <!--
 **josafath597/josafath597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
