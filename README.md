@@ -1,4 +1,4 @@
-<h1>Electronics Engineer</h1>
+<h1>Agile Software Engineer</h1>
 
 <ul>
 <li><p>Proactive Frontend developer with a passion for learning new things. Strong team player, highly proactive and very process-oriented engineer. Respectful and with great written and communication skills.</p></li>
