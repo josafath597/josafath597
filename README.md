@@ -7,7 +7,7 @@
 <h2>Profile</h2>
 <ul>
 <li>Programming in C with microcontrollers for 2 years</li>
-<li>Knowledge of HTML, CSS, JS and php</li>
+<li>Knowledge of HTML, CSS, JS</li>
 <li>Basic knowledge in python</li>
 </ul>
 
